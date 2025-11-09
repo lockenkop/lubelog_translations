@@ -46,8 +46,8 @@
     "Add_New_Odometer_Record": "Neuen Kilometerstand hinzufügen",
     "Add_New_Plan_Record": "Neuen Plan hinzufügen",
     "Add_New_Reminder": "Neue Erinnerung hinzufügen",
-    "Add_New_Repair_Record": "Neuen Reparatureintrag hinzufügen",
-    "Add_New_Service_Record": "Neuen Wartungseintrag hinzufügen",
+    "Add_New_Repair_Record": "Neuen Reparatur hinzufügen",
+    "Add_New_Service_Record": "Neue Wartung hinzufügen",
     "Add_New_Supply_Record": "Neues Ersatzteil hinzufügen",
     "Add_New_Tax_Record": "Neuen Gebühreneintrag hinzufügen",
     "Add_New_Upgrade_Record": "Neues Upgrade hinzufügen",
@@ -190,8 +190,8 @@
     "Edit_Plan_Record_Template": "Planvorlage bearbeiten",
     "Edit_Reminder": "Erinnerung bearbeiten",
     "Edit_Repair_Record": "Reparatur bearbeiten",
-    "Edit_Service_Record": "Wartungseintrag bearbeiten",
-    "Edit_Supply_Record": "Ersatzteileintrag bearbeiten",
+    "Edit_Service_Record": "Wartung bearbeiten",
+    "Edit_Supply_Record": "Ersatzteil bearbeiten",
     "Edit_Tax_Record": "Gebühreneintrag bearbeiten",
     "Edit_Upgrade_Record": "Upgradeeintrag bearbeiten",
     "Edit_Vehicle": "Fahrzeug bearbeiten",
@@ -559,4 +559,5 @@
     "Your_Registration_Token_for_LubeLogger": "Your Registration Token for LubeLogger",
     "Your_User_Account_Update_Token_for_LubeLogger": "Your User Account Update Token for LubeLogger"
 }
+
 
